@@ -1,0 +1,188 @@
+Science Fiction
+50
+1
+Frank Herbert
+Dune [S1]
+2
+Orson Scott Card
+Ender's Game [S1]
+3
+Isaac Asimov
+The Foundation Trilogy
+4
+Douglas Adams
+Hitch Hiker's Guide to the Galaxy [S1]
+5
+George Orwell
+1984
+6
+Robert A Heinlein
+Stranger in a Strange Land
+7
+Ray Bradbury
+Fahrenheit 451
+8
+Arthur C Clarke
+2001: A Space Odyssey
+9
+Philip K Dick
+Do Androids Dream of Electric Sheep?
+10
+William Gibson
+Neuromancer [S1]
+11
+Isaac Asimov
+[C] I, Robot
+12
+Robert A Heinlein
+Starship Troopers
+13
+Larry Niven
+Ringworld [S1]
+14
+Arthur C Clarke
+Rendezvous With Rama
+15
+Dan Simmons
+Hyperion [S1]
+16
+Aldous Huxley
+Brave New World
+17
+Joe Haldeman
+The Forever War
+18
+H G Wells
+The Time Machine
+19
+Arthur C Clarke
+Childhood's End
+20
+Robert A Heinlein
+The Moon is a Harsh Mistress
+
+Travel
+40
+1.
+Norman Lewis
+A Dragon Apparent
+2.
+Colin McPhee
+A House in Bali 
+3.
+Ernest Hemingway
+A Moveable Feast
+4.
+Eric Newby
+A Short Walk in the Hindu Kush  
+5.
+Patrick Leigh Fermor
+A Time of Gifts 
+6.
+V.S. Naipaul
+A Turn in the South  
+7.
+Bill Bryson
+A Walk in the Woods 
+8.
+Freya Stark
+A Winter in Arabia 
+9.
+Colin Thubron
+Among the Russians 
+10.
+V.S. Naipaul
+An Area of Darkness 
+11.
+Wilfred Thesiger
+Arabian Sands  
+12.
+Barry Lopez
+Arctic Dreams  
+13.
+Alain de Botton
+The Art of Travel  
+14.
+Laurie Lee
+As I Walked Out One Midsummer Morning  
+15.
+Tony Horwitz
+Baghdad Without a Map  
+16.
+Robert D. Kaplan
+Balkan Ghosts  
+17.
+Freya Stark
+Beyond Euphrates  
+18.
+Eric Hansen
+The Bird Man and the Lap Dancer  
+19.
+Lawrence Durrell
+Bitter Lemons of Cyprus  
+20.
+Rebecca West
+Black Lamb and Grey Falcon 
+
+Software Engineering
+100
+1.
+Steve McConnell
+Code Complete: A Handbook of Software Construction
+2.
+Elisabeth Freeman, etc.
+Head First Design Patterns
+3.
+Steve McConnell
+Rapid Development
+4.
+Erich Gamma
+Design Patterns: Elements of Reusable Object-Oriented Software
+5.
+Bruce Schneier
+Cryptography: Protocols, Algorithms, and Source Code 
+6.
+Robert C. Martin
+Agile Software Development: Principles, Patterns and Practices
+7.
+Joel Spolsky
+Joel on Software
+8.
+Tom DeMarco
+Peopleware: Productive Projects and Teams  
+9.
+Frederick P. Brooks
+The Mythical Man-Month, Anniversary Edition
+10.
+Martin Fowler
+Refactoring: Improving the Design of Existing Code
+11.
+Mike Cohn
+Agile Estimating and Planning
+12.
+Alistair Cockburn
+Writing Effective Use Cases
+13.
+Bertrand Meyer
+Object-Oriented Software Construction 
+14.
+Steve McConnell
+Software Estimation: Demystifying the Black Art
+15.
+Mike Cohn
+User Stories Applied: For Agile Software Development
+16.
+Donald E. Knuth
+The Art of Computer Programming 
+17.
+Martin Fowler
+Patterns of Enterprise Application Architecture
+18.
+Jeffrey Friedl
+Mastering Regular Expressions
+19.
+Andrew Hunt
+The Pragmatic Programmer 
+20.
+Karl E. Wiegers
+Software Requirements 
