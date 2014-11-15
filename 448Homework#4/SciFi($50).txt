@@ -1,0 +1,62 @@
+Science Fiction
+50
+1
+Frank Herbert
+Dune [S1]
+2
+Orson Scott Card
+Ender's Game [S1]
+3
+Isaac Asimov
+The Foundation Trilogy
+4
+Douglas Adams
+Hitch Hiker's Guide to the Galaxy [S1]
+5
+George Orwell
+1984
+6
+Robert A Heinlein
+Stranger in a Strange Land
+7
+Ray Bradbury
+Fahrenheit 451
+8
+Arthur C Clarke
+2001: A Space Odyssey
+9
+Philip K Dick
+Do Androids Dream of Electric Sheep?
+10
+William Gibson
+Neuromancer [S1]
+11
+Isaac Asimov
+[C] I, Robot
+12
+Robert A Heinlein
+Starship Troopers
+13
+Larry Niven
+Ringworld [S1]
+14
+Arthur C Clarke
+Rendezvous With Rama
+15
+Dan Simmons
+Hyperion [S1]
+16
+Aldous Huxley
+Brave New World
+17
+Joe Haldeman
+The Forever War
+18
+H G Wells
+The Time Machine
+19
+Arthur C Clarke
+Childhood's End
+20
+Robert A Heinlein
+The Moon is a Harsh Mistress
