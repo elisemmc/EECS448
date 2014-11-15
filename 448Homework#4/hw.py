@@ -53,7 +53,7 @@ class Library:
 		self.List = BookList()
 		count = 1
 		for line in fileinput.input('Book-List-For-EECS-HW4.txt'):
-			if line.lstrip("\xef\xbb\xbf").rstrip() == "#":
+			if not line:
 				print('hi')
 
 			if count == 1:
