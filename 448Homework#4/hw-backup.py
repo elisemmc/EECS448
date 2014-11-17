@@ -173,28 +173,31 @@ class User_Controller:
 		self.Lib = Library()
 		self.Order = Order()
 		selection = 0
-		while selection != '5':
+		while selection != '6':
 			#prompts for input
 			print("Please choose an action:")
-			print("1 - View by Genre")
-			print("2 - Add to Order")
-			print("3 - Remove from Order")
-			print("4 - View Total Cost")
-			print("5 - Checkout")
+			print("1 - View All Books")
+			print("2 - View by Genre")
+			print("3 - Add to Order")
+			print("4 - Remove from Order")
+			print("5 - View Total Cost")
+			print("6 - Checkout")
 			selection = raw_input()
 			#number must be entered first, then other inputs
 			if selection == '1':
+				self.viewAll(self.Lib)
+			elif selection == '2':
 				stuff = raw_input("What Genre would you like to view? ")
 				self.viewGenre(self.Lib, stuff)
-			elif selection == '2':
+			elif selection == '3':
 				stuff = raw_input("What Title would you like to add? ")
 				self.addToOrder(self.Lib, stuff)
-			elif selection == '3':
+			elif selection == '4':
 				stuff = raw_input("What Title would you like to remove? ")
 				self.removeFromOrder(stuff)
-			elif selection == '4':
-				self.viewTotalCost()
 			elif selection == '5':
+				self.viewTotalCost()
+			elif selection == '6':
 				self.viewOrder()
 				self.viewTotalCost()
 	def viewAll(self, Library):
